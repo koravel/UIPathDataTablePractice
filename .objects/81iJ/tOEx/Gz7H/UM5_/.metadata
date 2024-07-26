@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'Комбинированная'",
+  "Type": "Element",
+  "Id": "UM5_aoMicEStdHL7LYpdqA",
+  "Reference": "rSbTWqjIMkO2BnAULP-oyg/UM5_aoMicEStdHL7LYpdqA",
+  "ParentRef": "rSbTWqjIMkO2BnAULP-oyg/Gz7HdkvZbUi_6mE8TkeXcQ",
+  "Created": "2024-07-26T10:50:04.9971109Z",
+  "Updated": "2024-07-26T10:50:04.9971109Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

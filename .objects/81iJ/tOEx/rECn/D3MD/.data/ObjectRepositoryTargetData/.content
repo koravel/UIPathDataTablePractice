@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="haPk2qEG30qqENAptIBNGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="378, 254, 1333, 533" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;uia name='Область диаграммы' role='Элемент диаграммы' /&gt;&lt;uia role='диаграмма: комбинированная' /&gt;" FuzzySelectorArgument="&lt;uia name='Область диаграммы' role='Элемент диаграммы' /&gt;&lt;uia role='диаграмма: комбинированная' automationid='' /&gt;" Guid="4b1f9b3d-51f3-4b04-8db6-c8b4bfa3fa22" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='VegetablesProduction.xlsx - Excel' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="426, 336, 1041, 391" FullSelectorArgument="&lt;uia name='Область диаграммы' role='Элемент диаграммы' /&gt;&lt;uia idx='2' role='диаграмма: комбинированная' /&gt;" FuzzySelectorArgument="&lt;uia name='Область диаграммы' role='Элемент диаграммы' /&gt;&lt;uia automationid='' role='диаграмма: комбинированная' /&gt;" Guid="e22e59f4-2590-4506-a148-bd64ac75ef34" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="77b0de94f9b693de85e6803ebdaa7b75.png" xmlns="">06SKaSsiIeUGEzsjyYXSd0A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

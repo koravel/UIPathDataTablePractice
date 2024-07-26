@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vxaBltDLz02avGx7O2SUig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="77893abf-5196-461e-8be5-d9345d03fdac" CvElementArea="28, 503, 141, 25" CvTextArea="58, 509, 104, 14" CvTextArgument="KomonhnpoBaHHaA" CvType="Button" DesignTimeRectangle="27, 504, 141, 24" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;uia cls='NetUIGalleryButtonGroup' name='Типы диаграмм' /&gt;&lt;uia cls='NetUIGalleryButton' name='Комбинированная' /&gt;" FuzzySelectorArgument="&lt;uia cls='NetUIGalleryButtonGroup' name='Типы диаграмм' /&gt;&lt;uia cls='NetUIGalleryButton' name='Комбинированная' role='Элемент списка' automationid='' check:fulltext='Комбинированная' /&gt;" Guid="931e942e-d199-4f0c-bd88-6650ea3a982d" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Изменение типа диаграммы' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2f7c232e48ac6f3b45846bd1b9ae3cd9.png" xmlns="">0FkjdNhyiFUCRYW41hXTRZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

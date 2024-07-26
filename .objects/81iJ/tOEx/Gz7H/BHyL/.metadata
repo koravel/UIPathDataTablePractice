@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'Комбинированная'",
+  "Type": "Element",
+  "Id": "BHyLDSPA20W9vQP8nDAvdw",
+  "Reference": "rSbTWqjIMkO2BnAULP-oyg/BHyLDSPA20W9vQP8nDAvdw",
+  "ParentRef": "rSbTWqjIMkO2BnAULP-oyg/Gz7HdkvZbUi_6mE8TkeXcQ",
+  "Created": "2024-07-26T10:48:35.4852676Z",
+  "Updated": "2024-07-26T10:48:35.4852676Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

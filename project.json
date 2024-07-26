@@ -4,6 +4,7 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "Syncfusion.XlsIO.NET": "[26.1.41]",
     "UiPath.Excel.Activities": "[2.23.4]",
     "UiPath.GSuite.Activities": "[2.6.23]",
     "UiPath.Mail.Activities": "[1.23.1]",
@@ -51,7 +52,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "aa027de5-6719-479a-8493-d43905ed7633",
+      "uniqueId": "1f300e9e-3fc0-4944-91f5-ff5f6e46594b",
       "input": [],
       "output": []
     }

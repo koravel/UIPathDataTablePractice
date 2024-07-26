@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'диаграмма комбинирован…'",
+  "Type": "Element",
+  "Id": "D3MDlKSBv0mhR5-9hNGJGA",
+  "Reference": "rSbTWqjIMkO2BnAULP-oyg/D3MDlKSBv0mhR5-9hNGJGA",
+  "ParentRef": "rSbTWqjIMkO2BnAULP-oyg/rECniEZLoUup703ibjIc2Q",
+  "Created": "2024-07-26T10:42:24.1007519Z",
+  "Updated": "2024-07-26T10:42:24.1007519Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
